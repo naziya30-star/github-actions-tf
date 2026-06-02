@@ -16,7 +16,7 @@ jobs:
       AWS_DEFAULT_REGION: us-east-1 # change if needed
 
     steps:
-      - name: Checkout
+      - name: 
         uses: actions/checkout@v4
 
       - name: Setup Terraform
